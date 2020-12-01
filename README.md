@@ -1,0 +1,1 @@
+Hello! Welcome to my tribute page for Satoshi Kon, my Responsive Web Development Project for freeCodeCamp.org!
